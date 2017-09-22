@@ -1,0 +1,163 @@
+//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.1"}*//
+
+.app {
+    background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
+	background-size: cover !important;
+	background-position: center center;
+}
+
+.layers, .layer { 
+	background: transparent!important;
+}
+
+.links,
+.chat,
+.typing,
+.content,
+.guild-channels,
+.private-channels,
+.guild-header header,
+.divider-red span,
+.flex-spacer,
+.messages-wrapper,
+.channel-members-wrap,
+.channel-members,
+.channels-wrap,
+.scroller-wrap,
+.popout-menu,
+.popout-menu .popout-menu-separator,
+.container-RYiLUQ,
+.guilds-wrapper,
+.sidebar-region,
+.content-region,
+.friends-table,
+.messages-wrapper,
+#friends,
+#friends .friends-header,
+.search-bar,
+#rtc-connection {
+	background-color: transparent !important;
+}
+
+.messages-wrapper,
+.friends-table,
+.messages-wrapper,
+#friends .friends-header {
+	background-color:  rgba(0,0,0,0.80) !important;
+}
+
+.channels-wrap,
+.channel-members-wrap,
+.sidebar-region {
+	background-color: rgba(0,0,0,0.70) !important;
+}
+
+.guilds-wrapper,
+.title-wrap {
+	background-color: rgba(0,0,0,0.60) !important;
+}
+
+.flex-spacer form {
+	margin: 0px !important;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: rgba(0,0,0,0.60) !important;
+}
+
+.channel-members h2 {
+	width: 50%;
+	color: #FFF !important;
+	background-color: #CE422B;
+	text-align: center;
+	border-radius: 4px;
+	border-bottom:0px solid #000;
+	border-top:0px solid #000;
+	border-left: 15px;
+	border-right: 15px;
+	padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin: 29px auto 9px;
+}
+
+.channel-members .member:hover{
+    background: rgba(206,66,43,0.30) !important;
+}
+
+
+.popout-menu .popout-menu-item.leave {
+	background: rgba(220,0,0,0.75) !important;
+	color: #fff !important;
+}
+
+.popout-menu .popout-menu-item {
+	background-color: rgba(0,0,0,0.75) !important;
+	color: #fff !important;
+}
+
+.popout-menu .popout-menu-separator {
+	border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.75);
+}
+
+#friends .friends-table {
+	margin-top: 0px;
+	padding-top: 8px;
+}
+
+/* settings */
+
+.settings .settings-inner {
+	background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
+	background-size: cover !important;
+	background-position: center center;
+}
+
+.ui-standard-sidebar-view {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.content-region {
+    background-color: rgba(0, 0, 0, 0.80) !important;
+}
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb,
+.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+	background-color: #CE422B;
+	border-color: transparent;
+}
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece,
+.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.itemDefaultSelected-1UAWLe,
+.itemBrandSelected-3LxxzT,
+#bd-settings-sidebar .ui-tab-bar-item.selected,
+.buttonBrandFilled-3Mv0Ra,
+.themeDefault-3M0dJU.valueChecked-3Bzkbm,
+.barFill-18ABna,
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
+	background-color: #CE422B;
+	color: #FFF;
+}
+
+.buttonBrandFilled-3Mv0Ra:hover {
+	background-color: #b93b26;
+}
+
+.itemBrand-mC9YR4 {
+	color: #CE422B;
+}
+
+.itemDanger-3m3dwx {
+	color: #FFF;
+	background-color: #f04747;
+}
+
+.checkbox .checkbox-inner input[type=checkbox]:checked+span {
+	background-color: #CE422B;
+	border-color: #CE422B;
+}
