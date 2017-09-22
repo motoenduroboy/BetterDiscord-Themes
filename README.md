@@ -1,5 +1,5 @@
 # BetterDiscord-Themes
-BetterDiscord Themes made by me
+BetterDiscord Themes made by me.
 These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will not work with out them
 
 ## Installation
