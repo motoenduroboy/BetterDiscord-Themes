@@ -2,5 +2,5 @@
 BetterDiscord Themes made by me
 
 ## Rust Theme
-![Image of The Theme](https://imgur.com/a/lZm6A)
+![Image of Theme](https://i.imgur.com/R8GBdVn.png)
 This theme is based of the game [Rust](https://rust.facepunch.com/)
