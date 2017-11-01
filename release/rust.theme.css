@@ -6,7 +6,7 @@
 	background-position: center center;
 }
 
-.layers, .layer { 
+.layers, .layer {
 	background: transparent!important;
 }
 
@@ -21,20 +21,18 @@
 .flex-spacer,
 .messages-wrapper,
 .channel-members-wrap,
-.channel-members,
-.channels-wrap,
 .scroller-wrap,
 .popout-menu,
 .popout-menu .popout-menu-separator,
 .container-RYiLUQ,
 .guilds-wrapper,
-.sidebar-region,
 .content-region,
 .friends-table,
 .messages-wrapper,
 #friends,
 #friends .friends-header,
 .search-bar,
+.container-2OU7Cz,
 #rtc-connection {
 	background-color: transparent !important;
 }
@@ -46,14 +44,14 @@
 	background-color:  rgba(0,0,0,0.80) !important;
 }
 
-.channels-wrap,
-.channel-members-wrap,
-.sidebar-region {
+.channel-members,
+.channels-3g2vYe {
 	background-color: rgba(0,0,0,0.70) !important;
 }
 
 .guilds-wrapper,
-.title-wrap {
+.title-qAcLxz,
+.headerBar-cxbhPD {
 	background-color: rgba(0,0,0,0.60) !important;
 }
 
@@ -121,6 +119,10 @@
     background-color: rgba(0, 0, 0, 0.80) !important;
 }
 
+.sidebar-region {
+  background-color: rgba(0, 0, 0, 0.60) !important;
+}
+
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb,
 .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
 	background-color: #CE422B;
@@ -154,10 +156,14 @@
 
 .itemDanger-3m3dwx {
 	color: #FFF;
-	background-color: #f04747;
+	background-color: rgb(240, 71, 71);
 }
 
-.checkbox .checkbox-inner input[type=checkbox]:checked+span {
-	background-color: #CE422B;
+.checkbox .checkbox-inner input[type=checkbox]:checked+span,
+.tab-bar .tab-bar-item.tab-bar-item-primary,
+.tab-bar .tab-bar-item.selected,
+.chat .new-messages-bar {
+	background-color: #CE422B !important;
 	border-color: #CE422B;
+  color: #FFF !important;
 }
