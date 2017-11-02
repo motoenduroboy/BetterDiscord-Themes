@@ -1,4 +1,4 @@
-//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.1"}*//
+//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.3"}*//
 
 .app {
     background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
@@ -10,27 +10,15 @@
 	background: transparent!important;
 }
 
-.links,
-.chat,
 .typing,
 .content,
-.guild-channels,
-.private-channels,
-.guild-header header,
-.divider-red span,
 .flex-spacer,
-.messages-wrapper,
-.channel-members-wrap,
-.scroller-wrap,
-.popout-menu,
-.popout-menu .popout-menu-separator,
 .container-RYiLUQ,
-.guilds-wrapper,
-.content-region,
 .friends-table,
 .messages-wrapper,
-#friends,
-#friends .friends-header,
+.popout-menu, /* Server Menu (Popout) */
+.popout-menu-item, /* Server Menu (Popout item) */
+#friends, /* Friends Section */
 .search-bar,
 .container-2OU7Cz,
 #rtc-connection {
@@ -45,13 +33,13 @@
 }
 
 .channel-members,
-.channels-3g2vYe {
+.channels-3g2vYe /* Direct Messages Side Bar */ {
 	background-color: rgba(0,0,0,0.70) !important;
 }
 
-.guilds-wrapper,
+.guilds-wrapper /* Guilds (Left SideBar) */,
 .title-qAcLxz,
-.headerBar-cxbhPD {
+.headerBar-cxbhPD /* Friends Section Header */ {
 	background-color: rgba(0,0,0,0.60) !important;
 }
 
