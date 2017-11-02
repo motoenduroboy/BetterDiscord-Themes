@@ -10,5 +10,6 @@ These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will
 5. Done! Have Fun :D
 
 ## Rust Theme
-![Image of Theme](https://i.imgur.com/R8GBdVn.png)
+![Main Guild Window](https://i.imgur.com/R8GBdVn.png)
+![User Settings](https://imgur.com/a/WjkL6)
 This theme is based of the game [Rust](https://rust.facepunch.com/)
