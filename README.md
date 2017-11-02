@@ -11,5 +11,5 @@ These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will
 
 ## Rust Theme
 ![Main Guild Window](https://i.imgur.com/R8GBdVn.png)
-![User Settings](https://imgur.com/a/WjkL6)
+![User Settings](https://i.imgur.com/S64tVRX.png)
 This theme is based of the game [Rust](https://rust.facepunch.com/)
