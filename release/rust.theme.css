@@ -1,9 +1,6 @@
-//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.4"}*//
+//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.5"}*//
 
-body {
-  background: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
-	background-size: cover !important;
-}
+.app { background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important; background-size: cover !important; }
 
 #app-mount,
 .app .layers .layer,
@@ -17,17 +14,19 @@ body {
 .popout-menu-item, /* Server Menu (Popout item) */
 #friends, /* Friends Section */
 .container-2OU7Cz,
-#rtc-connection {
+#rtc-connection,
+.ui-standard-sidebar-view {
 	background-color: transparent !important;
 }
 
-.titleBar-3_fDwJ { margin-top: 0px }
+.titleBar-3_fDwJ { margin-top: 0px; padding-top: 4px; }
 
 .messages-wrapper,
 .friends-table,
 .messages-wrapper,
 #friends .friends-header,
-.titleBar-3_fDwJ {
+.titleBar-3_fDwJ,
+.content-region /* Settings - Right Side */ {
 	background-color:  rgba(0,0,0,0.80) !important;
 }
 
@@ -38,21 +37,58 @@ body {
 
 .guilds-wrapper /* Guilds (Left SideBar) */,
 .title-qAcLxz,
-.headerBar-cxbhPD /* Friends Section Header */ {
+.headerBar-cxbhPD, /* Friends Section Header */
+.sidebar-region /* Settings - Left Side */ {
 	background-color: rgba(0,0,0,0.60) !important;
 }
 
-.chat form {
+.chat form { /* Chat Box */
 	margin: 0px !important;
 	padding-left: 20px;
 	padding-right: 20px;
 	background-color: rgba(0,0,0,0.60) !important;
+	/* height: 106px; */
+	padding: 6.5px 20px;
+	display: flex !important;
+	flex-shrink: 0 !important;
+	margin: 0 20px;
+	position: relative;
+}
+
+.channels-3g2vYe,
+.chat .content,
+.title-qAcLxz,
+.channel-members-wrap,
+.content-region {
+    border-left-color: #CD412B;
+    border-left-width: 1px !important;
+    border-left-style: solid;
+}
+
+.container-3lnMWU,
+.container-3NvGrL,
+.private-channels .search-bar,
+.title-qAcLxz {
+    border-top-color: #CD412B;
+    border-top-width: 1px !important;
+    border-top-style: solid;
+    border-bottom-color: #CD412B;
+    border-bottom-width: 1px !important;
+    border-bottom-style: solid;
+}
+
+.guilds-wrapper,
+.chat form,
+.container-iksrDt {
+    border-top-color: #CD412B;
+    border-top-width: 1px !important;
+    border-top-style: solid;
 }
 
 .channel-members h2 {
 	width: 50%;
 	color: #FFF !important;
-	background-color: #CE422B;
+	background-color: #CD412B;
 	text-align: center;
 	border-radius: 4px;
 	border-bottom:0px solid #000;
@@ -76,13 +112,13 @@ body {
 
 .popout-menu .popout-menu-item {
 	background-color: rgba(0,0,0,0.75) !important;
-	color: #fff !important;
+	color: #b9bbbe !important;
 }
 
 .popout-menu .popout-menu-separator {
 	border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: rgba(0, 0, 0, 0.75);
+    border-bottom-color: #CD412B;
 }
 
 #friends .friends-table {
@@ -90,21 +126,9 @@ body {
 	padding-top: 8px;
 }
 
-.ui-standard-sidebar-view {
-    background-color: rgba(0, 0, 0, 0) !important;
-}
-
-.content-region {
-    background-color: rgba(0, 0, 0, 0.80) !important;
-}
-
-.sidebar-region {
-  background-color: rgba(0, 0, 0, 0.60) !important;
-}
-
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb,
 .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-	background-color: #CE422B;
+	background-color: #CD412B;
 	border-color: transparent;
 }
 
@@ -121,7 +145,7 @@ body {
 .themeDefault-3M0dJU.valueChecked-3Bzkbm,
 .barFill-18ABna,
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
-	background-color: #CE422B;
+	background-color: #CD412B;
 	color: #FFF;
 }
 
@@ -130,7 +154,7 @@ body {
 }
 
 .itemBrand-mC9YR4 {
-	color: #CE422B;
+	color: #CD412B;
 }
 
 .itemDanger-3m3dwx {
@@ -142,10 +166,35 @@ body {
 .tab-bar .tab-bar-item.tab-bar-item-primary,
 .tab-bar .tab-bar-item.selected,
 .chat .new-messages-bar {
-	background-color: #CE422B !important;
-	border-color: #CE422B;
+	background-color: #CD412B !important;
+	border-color: #CD412B;
   color: #FFF !important;
 }
 
-.mention { color: #CE422B }
-.mention:hover { color: #FFF; background-color: #CE422B !important; }
+.mention { color: #CD412B }
+.mention:hover { color: #FFF; background-color: #CD412B !important; }
+.sidebar-region .sidebar { padding-bottom: 0px !important; }
+
+.popout-menu .popout-menu-separator {
+	border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CD412B;
+}
+
+.popout-menu .popout-menu-item:hover {
+	background-color: #ce422b !important;
+	color: #fff !important;
+}
+
+body {
+	font-family: "Roboto";
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	text-size-adjust: 100%;
+}
+
+.message-group .comment .markup pre code,
+.message-group .comment .markup code.inline {
+	background-color: #000 !important;
+}
