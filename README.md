@@ -1,6 +1,6 @@
 # BetterDiscord-Themes
 BetterDiscord Themes made by me.
-These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will not work with out them
+These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will not work with out it.
 
 ## Installation
 1. Download Theme File (themename.theme.css)
@@ -12,4 +12,4 @@ These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will
 ## Rust Theme
 ![Main Guild Window](https://i.imgur.com/oek4sd0.png)
 ![User Settings](https://i.imgur.com/Fu3wowX.png)
-This theme is based of the game [Rust](https://rust.facepunch.com/)
+This theme is based on the game [Rust](https://rust.facepunch.com/)
