@@ -1,34 +1,33 @@
-//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.3"}*//
+//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.4"}*//
 
-.app {
-    background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
+body {
+  background: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
 	background-size: cover !important;
-	background-position: center center;
 }
 
-.layers, .layer {
-	background: transparent!important;
-}
-
+#app-mount,
+.app .layers .layer,
+.app .layers,
 .typing,
 .content,
 .flex-spacer,
 .container-RYiLUQ,
-.friends-table,
 .messages-wrapper,
 .popout-menu, /* Server Menu (Popout) */
 .popout-menu-item, /* Server Menu (Popout item) */
 #friends, /* Friends Section */
-.search-bar,
 .container-2OU7Cz,
 #rtc-connection {
 	background-color: transparent !important;
 }
 
+.titleBar-3_fDwJ { margin-top: 0px }
+
 .messages-wrapper,
 .friends-table,
 .messages-wrapper,
-#friends .friends-header {
+#friends .friends-header,
+.titleBar-3_fDwJ {
 	background-color:  rgba(0,0,0,0.80) !important;
 }
 
@@ -43,7 +42,7 @@
 	background-color: rgba(0,0,0,0.60) !important;
 }
 
-.flex-spacer form {
+.chat form {
 	margin: 0px !important;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -89,14 +88,6 @@
 #friends .friends-table {
 	margin-top: 0px;
 	padding-top: 8px;
-}
-
-/* settings */
-
-.settings .settings-inner {
-	background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important;
-	background-size: cover !important;
-	background-position: center center;
 }
 
 .ui-standard-sidebar-view {
@@ -155,3 +146,6 @@
 	border-color: #CE422B;
   color: #FFF !important;
 }
+
+.mention { color: #CE422B }
+.mention:hover { color: #FFF; background-color: #CE422B !important; }
