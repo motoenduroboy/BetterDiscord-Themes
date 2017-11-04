@@ -1,4 +1,4 @@
-//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.5"}*//
+//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.6"}*//
 
 .app { background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important; background-size: cover !important; }
 
@@ -144,7 +144,9 @@
 .buttonBrandFilled-3Mv0Ra,
 .themeDefault-3M0dJU.valueChecked-3Bzkbm,
 .barFill-18ABna,
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,
+.bd-pfbtn,
+.ui-standard-sidebar-view .bda-slist .bda-right button {
 	background-color: #CD412B;
 	color: #FFF;
 }
@@ -163,6 +165,7 @@
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
+.themeClear-1NqU69.valueChecked-3Bzkbm,
 .tab-bar .tab-bar-item.tab-bar-item-primary,
 .tab-bar .tab-bar-item.selected,
 .chat .new-messages-bar {
@@ -197,4 +200,24 @@ body {
 .message-group .comment .markup pre code,
 .message-group .comment .markup code.inline {
 	background-color: #000 !important;
+}
+
+.message-group .comment .markup pre code {
+	border-style: solid !important;
+	border-width: 1px !important;
+	border-color: #ce422b !important;
+    padding: 0 !important;
+}
+
+.item-2zi_5J[style*="background-color: rgb(114, 137, 218);"] {
+	background-color: #CD412B !important;
+	border-color: #CD412B !important;
+}
+
+.checkbox-1QwaS4[style*="border-color: rgb(114, 137, 218);"] {
+	border-color: #CD412B !important;
+}
+
+.checkbox-1QwaS4[style*="border-color: rgb(114, 137, 218);"] polyline {
+	stroke: #CD412B !important;
 }
