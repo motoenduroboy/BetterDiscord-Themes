@@ -13,3 +13,8 @@ These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will
 ![Main Guild Window](https://i.imgur.com/oek4sd0.png)
 ![User Settings](https://i.imgur.com/Fu3wowX.png)
 This theme is based on the game [Rust](https://rust.facepunch.com/)
+
+## [Orange is a Massive Weeb Theme](/release/auto-update/OrangeisaMassiveWeeb.theme.css)
+This Theme was made for a Friend!
+![Main Guild Window](https://i.imgur.com/7VNSUxR.png)
+![User Settings](https://i.imgur.com/XePFUGl.png)
