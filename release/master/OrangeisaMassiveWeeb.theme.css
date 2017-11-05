@@ -1,4 +1,4 @@
-//META{"name":"Orange is a Massive Weeb","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.1"}*//
+//META{"name":"Orange is a Massive Weeb","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.2"}*//
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
 .app { background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-318232.jpg) !important; background-size: cover !important; }
@@ -54,39 +54,6 @@
 	flex-shrink: 0 !important;
 	margin: 0 20px;
 	position: relative;
-}
-
-.channels-3g2vYe,
-.chat .content,
-.title-qAcLxz,
-.channel-members-wrap,
-.content-region,
-.headerBar-cxbhPD,
-.friends-table {
-    border-left-color: rgba(75, 0, 130, 0.8);
-    border-left-width: 1px !important;
-    border-left-style: solid;
-}
-
-.container-3lnMWU,
-.container-3NvGrL,
-.private-channels .search-bar,
-.title-qAcLxz,
-.headerBar-cxbhPD {
-    border-top-color: rgba(75, 0, 130, 0.8);
-    border-top-width: 1px !important;
-    border-top-style: solid;
-    border-bottom-color: rgba(75, 0, 130, 0.8);
-    border-bottom-width: 1px !important;
-    border-bottom-style: solid;
-}
-
-.guilds-wrapper,
-.chat form,
-.container-iksrDt {
-    border-top-color: rgba(75, 0, 130, 0.8);
-    border-top-width: 1px !important;
-		border-top-style: solid;
 }
 
 .channel-members h2 {
