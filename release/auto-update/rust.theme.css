@@ -1,3 +1,4 @@
 //META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.7"}*//
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url(https://rawgit.com/motoenduroboy/BetterDiscord-Themes/master/release/master/rust.theme.css);
 .app { background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important; background-size: cover !important; }
