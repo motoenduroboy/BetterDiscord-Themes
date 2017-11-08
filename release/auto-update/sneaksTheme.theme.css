@@ -1,0 +1,5 @@
+//META{"name":"Sneaks_Theme","description":"A Theme Made For A Friend","author":"Moto","version":"AUTOUPDATE"}*//
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url(https://rawgit.com/motoenduroboy/BetterDiscord-Themes/master/release/master/sneaksTheme.theme.css)
+
+.app { background-image: url(https://i.ytimg.com/vi/SV7EKA8jnAs/maxresdefault.jpg) !important; background-size: cover !important; }
