@@ -1,4 +1,4 @@
-//META{"name":"Orange_is_a_Massive_Weeb","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.2"}*//
+//META{"name":"Orange_is_a_Massive_Weeb","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.3"}*//
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
 .app { background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-318232.jpg) !important; background-size: cover !important; }
@@ -16,7 +16,8 @@
 #friends, /* Friends Section */
 .container-2OU7Cz,
 #rtc-connection,
-.ui-standard-sidebar-view {
+.ui-standard-sidebar-view,
+.content-region .cm-s-material .CodeMirror-gutters {
 	background-color: transparent !important;
 }
 
@@ -196,4 +197,19 @@ body {
 .itemBrand-mC9YR4:hover, /* Discord Nitro Button*/
 .ui-tab-bar-item:hover /* Better Discord Settings Button */{
 	color: #FFF; background: rgb(128,128,128, 0.8) !important;
+}
+
+.ui-standard-sidebar-view #bd-customcss-attach-controls button {
+	background-color: rgb(128,128,128) !important;
+	border-color: rgb(128,128,128) !important;
+}
+
+.ui-standard-sidebar-view .bda-slist li,
+.content-region .CodeMirror,
+.content-region #bd-customcss-attach-controls {
+	background-color: rgba(128,128,128, 0.30) !important;
+}
+
+.ui-standard-sidebar-view .bda-slist li:nth-child(odd) {
+	background-color: rgba(128,128,128, 0.25);
 }
