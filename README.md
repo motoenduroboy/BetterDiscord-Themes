@@ -18,3 +18,8 @@ This theme is based on the game [Rust](https://rust.facepunch.com/)
 This Theme was made for a Friend!
 ![Main Guild Window](https://i.imgur.com/7VNSUxR.png)
 ![User Settings](https://i.imgur.com/XePFUGl.png)
+
+## [Sneaks Theme](/release/auto-update/sneaksTheme.theme.css)
+This Theme was made for a Friend!
+![Main Guild Window](https://i.imgur.com/dNnND9c.png)
+![User Settings](https://i.imgur.com/awZZcQ1.png)
