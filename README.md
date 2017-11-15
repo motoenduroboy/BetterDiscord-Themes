@@ -15,7 +15,7 @@ These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will
 This theme is based on the game [Rust](https://rust.facepunch.com/)
 
 ## [Orange is a Massive Weeb Theme](/release/auto-update/OrangeisaMassiveWeeb.theme.css)
-This Theme was made for a Friend!
+This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)
 ![Main Guild Window](https://i.imgur.com/7VNSUxR.png)
 ![User Settings](https://i.imgur.com/XePFUGl.png)
 
@@ -23,3 +23,18 @@ This Theme was made for a Friend!
 This Theme was made for a Friend!
 ![Main Guild Window](https://i.imgur.com/dNnND9c.png)
 ![User Settings](https://i.imgur.com/awZZcQ1.png)
+
+## [OniiChan Theme](/release/auto-update/OniiChan.theme.css)
+This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)
+![Main Guild Window](https://i.imgur.com/LdzL0oJ.png)
+![User Settings](https://i.imgur.com/GfDm2zR.png)
+
+## [Waifu Theme](/release/auto-update/Waifu.theme.css)
+This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)
+![Main Guild Window](https://i.imgur.com/uNRGwiJ.png)
+![User Settings](https://i.imgur.com/1Q5Xqff.png)
+
+## [Your A Bloody Weeb Theme](/release/auto-update/Waifu.theme.css)
+This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)
+![Main Guild Window](https://i.imgur.com/llPna4M.png)
+![User Settings](https://i.imgur.com/qStOtdg.png)
