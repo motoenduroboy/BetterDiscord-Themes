@@ -1,6 +1,6 @@
 # BetterDiscord-Themes
 BetterDiscord Themes made by me.
-If you would like to contact me, will will find me on [Secondary BetterDiscord Support Server](https://discordapp.com/invite/2HScm8j) or [My Discord Server](https://discordapp.com/invite/GqCfHbF)
+If you would like to contact me, will will find me on [Secondary BetterDiscord Support Server](https://discordapp.com/invite/2HScm8j)
 These Themes Require [BetterDiscord](https://betterdiscord.net/home/). They will not work with out it.
 
 ## Installation
