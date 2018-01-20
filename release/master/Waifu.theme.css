@@ -1,4 +1,4 @@
-//META{"name":"Waifu","description":"This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)","author":"Moto","version":"0.0.1"}*//
+//META{"name":"Waifu","description":"This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)","author":"Moto","version":"0.0.2"}*//
 @import url('https://fonts.googleapis.com/css?family=Bitter');
 
 .app { background-image: url(https://i.imgur.com/4gyXwuy.jpg) !important; background-size: cover !important; }
@@ -18,7 +18,9 @@
 #rtc-connection,
 .ui-standard-sidebar-view,
 .content-region .cm-s-material .CodeMirror-gutters,
-.guilds-wrapper .guilds .guild .guild-inner {
+.guilds-wrapper .guilds .guild .guild-inner,
+.theme-dark .layers-20RVFW,
+.theme-dark .layer-kosS71  {
 	background-color: transparent !important;
 }
 
