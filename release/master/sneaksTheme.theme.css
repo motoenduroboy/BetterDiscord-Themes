@@ -1,4 +1,4 @@
-//META{"name":"Sneaks_Theme","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.1"}*//
+//META{"name":"Sneaks_Theme","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.2"}*//
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 .app { background-image: url(https://i.ytimg.com/vi/SV7EKA8jnAs/maxresdefault.jpg) !important; background-size: cover !important; }
@@ -16,7 +16,9 @@
 #friends, /* Friends Section */
 .container-2OU7Cz,
 #rtc-connection,
-.ui-standard-sidebar-view {
+.ui-standard-sidebar-view,
+.theme-dark .layers-20RVFW,
+.theme-dark .layer-kosS71 {
 	background-color: transparent !important;
 }
 
