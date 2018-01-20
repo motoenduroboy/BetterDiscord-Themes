@@ -1,4 +1,4 @@
-//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.7"}*//
+//META{"name":"Rust-Theme","description":"A Theme For Rust Players","author":"Moto","version":"0.0.8"}*//
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .app { background-image: url(https://pbs.twimg.com/media/DDg7aBiXgAA59rC.jpg) !important; background-size: cover !important; }
@@ -16,7 +16,9 @@
 #friends, /* Friends Section */
 .container-2OU7Cz,
 #rtc-connection,
-.ui-standard-sidebar-view {
+.ui-standard-sidebar-view,
+.theme-dark .layers-20RVFW,
+.theme-dark .layer-kosS71 {
 	background-color: transparent !important;
 }
 
