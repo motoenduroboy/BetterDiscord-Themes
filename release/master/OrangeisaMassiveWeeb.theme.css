@@ -1,4 +1,4 @@
-//META{"name":"Orange_is_a_Massive_Weeb","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.3"}*//
+//META{"name":"Orange_is_a_Massive_Weeb","description":"A Theme Made For A Friend","author":"Moto","version":"0.0.4"}*//
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
 .app { background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-318232.jpg) !important; background-size: cover !important; }
@@ -17,7 +17,9 @@
 .container-2OU7Cz,
 #rtc-connection,
 .ui-standard-sidebar-view,
-.content-region .cm-s-material .CodeMirror-gutters {
+.content-region .cm-s-material .CodeMirror-gutters,
+.theme-dark .layers-20RVFW,
+.theme-dark .layer-kosS71 {
 	background-color: transparent !important;
 }
 
