@@ -1,4 +1,4 @@
-//META{"name":"Your_a_bloddy_Weeb","description":"This Theme Was Requested By Orange(𝓑𝓲𝓰 𝓦𝓮𝓮𝓫#7691)","author":"Moto","version":"0.0.1"}*//
+//META{"name":"Your_a_bloddy_Weeb","description":"This Theme Was Requested By Orange(ð“‘ð“²ð“° ð“¦ð“®ð“®ð“«#7691)","author":"Moto","version":"0.0.2"}*//
 @import url('https://fonts.googleapis.com/css?family=Bitter');
 
 .app { background-image: url(https://i.imgur.com/PxOSa5I.png) !important; background-size: cover !important; }
@@ -17,7 +17,9 @@
 .container-2OU7Cz,
 #rtc-connection,
 .ui-standard-sidebar-view,
-.content-region .cm-s-material .CodeMirror-gutters {
+.content-region .cm-s-material .CodeMirror-gutters,
+.theme-dark .layers-20RVFW,
+.theme-dark .layer-kosS71  {
 	background-color: transparent !important;
 }
 
