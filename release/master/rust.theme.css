@@ -9,38 +9,38 @@
 .typing,
 .content,
 .flex-spacer,
-.container-RYiLUQ,
+.container-PNkimc,
 .messages-wrapper,
 .popout-menu, /* Server Menu (Popout) */
 .popout-menu-item, /* Server Menu (Popout item) */
 #friends, /* Friends Section */
-.container-2OU7Cz,
+.container-2lgZY8,
 #rtc-connection,
 .ui-standard-sidebar-view,
-.theme-dark .layers-20RVFW,
-.theme-dark .layer-kosS71 {
+.theme-dark .layers-3iHuyZ,
+.theme-dark .layer-3QrUeG {
 	background-color: transparent !important;
 }
 
-.titleBar-3_fDwJ { margin-top: 0px; padding-top: 4px; }
+.titleBar-AC4pGV { margin-top: 0px; padding-top: 4px; }
 
 .messages-wrapper,
 .friends-table,
 .messages-wrapper,
 #friends .friends-header,
-.titleBar-3_fDwJ,
+.titleBar-AC4pGV,
 .content-region /* Settings - Right Side */ {
 	background-color:  rgba(0,0,0,0.80) !important;
 }
 
 .channel-members,
-.channels-3g2vYe /* Direct Messages Side Bar */ {
+.channels-Ie2l6A /* Direct Messages Side Bar */ {
 	background-color: rgba(0,0,0,0.70) !important;
 }
 
 .guilds-wrapper /* Guilds (Left SideBar) */,
-.title-qAcLxz,
-.headerBar-cxbhPD, /* Friends Section Header */
+.title-3qD0b-,
+.headerBar-UHpsPw, /* Friends Section Header */
 .sidebar-region /* Settings - Left Side */ {
 	background-color: rgba(0,0,0,0.60) !important;
 }
@@ -58,9 +58,9 @@
 	position: relative;
 }
 
-.channels-3g2vYe,
+.channels-Ie2l6A,
 .chat .content,
-.title-qAcLxz,
+.title-3qD0b-,
 .channel-members-wrap,
 .content-region {
     border-left-color: #CD412B;
@@ -68,10 +68,10 @@
     border-left-style: solid;
 }
 
-.container-3lnMWU,
-.container-3NvGrL,
+.container-1UB9sr,
+.container-2Rl01u,
 .private-channels .search-bar,
-.title-qAcLxz {
+.title-3qD0b- {
     border-top-color: #CD412B;
     border-top-width: 1px !important;
     border-top-style: solid;
@@ -82,7 +82,7 @@
 
 .guilds-wrapper,
 .chat form,
-.container-iksrDt {
+.container-2Thooq {
     border-top-color: #CD412B;
     border-top-width: 1px !important;
     border-top-style: solid;
@@ -145,7 +145,7 @@
 .itemBrandSelected-3LxxzT,
 #bd-settings-sidebar .ui-tab-bar-item.selected,
 .buttonBrandFilled-3Mv0Ra,
-.themeDefault-3M0dJU.valueChecked-3Bzkbm,
+.themeDefault-24hCdX.valueChecked-m-4IJZ,
 .barFill-18ABna,
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked,
 .bd-pfbtn,
@@ -168,7 +168,7 @@
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
-.themeClear-1NqU69.valueChecked-3Bzkbm,
+.themeClear-1EjkE4.valueChecked-m-4IJZ,
 .tab-bar .tab-bar-item.tab-bar-item-primary,
 .tab-bar .tab-bar-item.selected,
 .chat .new-messages-bar {
@@ -212,15 +212,15 @@ body {
     padding: 0 !important;
 }
 
-.item-2zi_5J[style*="background-color: rgb(114, 137, 218);"] {
+.item-26Dhrx[style*="background-color: rgb(114, 137, 218);"] {
 	background-color: #CD412B !important;
 	border-color: #CD412B !important;
 }
 
-.checkbox-1QwaS4[style*="border-color: rgb(114, 137, 218);"] {
+.checkbox-1ix_J3[style*="border-color: rgb(114, 137, 218);"] {
 	border-color: #CD412B !important;
 }
 
-.checkbox-1QwaS4[style*="border-color: rgb(114, 137, 218);"] polyline {
+.checkbox-1ix_J3[style*="border-color: rgb(114, 137, 218);"] polyline {
 	stroke: #CD412B !important;
 }
